@@ -40,7 +40,7 @@
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution graph">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="">
 </p>
 
 ## 📈 GitHub Stats
