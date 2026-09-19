@@ -46,8 +46,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vasigaran5&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasigaran5&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=vasigaran5&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasigaran5&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="">
 </p>
 
 ## 🐍 Contribution Snake
